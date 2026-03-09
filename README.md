@@ -1,5 +1,5 @@
-**Palmer Penguins: Exploratory Data Analysis
-**
+**Palmer Penguins: Exploratory Data Analysis**
+
 This project explores the Palmer Penguins dataset using a complete, professional EDA workflow. The analysis includes data inspection, missingness evaluation, univariate and bivariate exploration, visualization, correlation analysis, and statistical testing.
 
 **Tools Used**
@@ -27,4 +27,5 @@ Clean, structured EDA workflow
 
 **Dataset **
 Palmer Penguins dataset (publicly available)
+
 
