@@ -1,33 +1,63 @@
-**Palmer Penguins: Exploratory Data Analysis**
+# Palmer Penguins: Exploratory Data Analysis  
+**By Cory Shockley**  
+Python • Pandas • Seaborn • Matplotlib • SciPy
 
-This project explores the Palmer Penguins dataset using a complete, professional EDA workflow. The analysis includes data inspection, missingness evaluation, univariate and bivariate exploration, visualization, correlation analysis, and statistical testing.
+---
 
-**Tools Used**
-- Python
-- Pandas
-- NumPy
-- Seaborn
-- Matplotlib
-- SciPy
+## 📌 Project Overview
+This project explores the Palmer Penguins dataset using a complete, professional exploratory data analysis (EDA) workflow. The goal is to understand species‑level differences, relationships between biological measurements, and how factors like island and sex relate to physical traits.
 
-**Key Questions Explored**
+This project demonstrates:
+- clean data inspection  
+- missingness evaluation  
+- univariate, bivariate and multivariate exploration  
+- correlation analysis  
+- statistical testing  
+- clear narrative and interpretation  
 
-- How do penguin species differ in physical characteristics?
-- How are species distributed across islands?
-- What relationships exist between numeric variables?
-- Do male and female penguins differ significantly in body mass?
+---
 
-**Highlights**
+## 🐧 Dataset Description
+The Palmer Penguins dataset contains physical measurements for three penguin species observed on islands in the Palmer Archipelago, Antarctica.
 
-Clean, structured EDA workflow
-- Pairplots, histplots, boxplots, and correlation heatmaps
-- Sex‑based analysis with statistical testing
-- Clear narrative and interpretation throughout
-- Notebook The full analysis is available in: notebooks/penguins_eda.ipynb
+**Variables include:**
+- `species` — Adelie, Chinstrap, Gentoo  
+- `island` — Biscoe, Dream, Torgersen  
+- `bill_length_mm`  
+- `bill_depth_mm`  
+- `flipper_length_mm`  
+- `body_mass_g`  
+- `sex`  
+- `year`  
 
-**Dataset**
+---
 
-Palmer Penguins dataset (publicly available)
+## 🧠 Key Questions Explored
+- How do species differ in physical characteristics?  
+- How are species distributed across islands?  
+- What relationships exist between numeric variables?  
+- Are male penguins significantly heavier than females?  
+- How do island and sex relate to body size?  
 
+---
 
+## 📊 Highlights & Findings
+- Clear species‑level differences in body size  
+- Strong correlations among flipper length, bill length, and body mass  
+- Distinct island distributions for each species  
+- Statistically significant difference in body mass between males and females (t‑test, p ≈ 0)  
+- Visualizations reveal meaningful biological patterns  
 
+---
+
+## 🧰 Tools & Libraries
+- **Python**  
+- **Pandas** — data manipulation  
+- **NumPy** — numerical operations  
+- **Seaborn** — statistical visualization  
+- **Matplotlib** — plotting  
+- **SciPy** — statistical testing  
+
+---
+
+## 📁 Project Structure
