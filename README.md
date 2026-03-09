@@ -1,4 +1,4 @@
-![Palmer Penguins EDA Banner](palmer_banner.png)
+![Palmer Penguins EDA Banner](palmer-banner/banner.png)
 
 # Palmer Penguins: Exploratory Data Analysis  
 **By Cory Shockley**  
@@ -107,6 +107,7 @@ The full analysis is available in:
 
 ## 📬 Contact
 If you’d like to discuss this project or my workflow, feel free to reach out.
+
 
 
 
