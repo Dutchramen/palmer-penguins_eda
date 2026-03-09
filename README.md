@@ -25,7 +25,9 @@ Clean, structured EDA workflow
 - Clear narrative and interpretation throughout
 - Notebook The full analysis is available in: notebooks/penguins_eda.ipynb
 
-**Dataset **
+**Dataset**
+
 Palmer Penguins dataset (publicly available)
+
 
 
