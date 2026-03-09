@@ -61,3 +61,47 @@ The Palmer Penguins dataset contains physical measurements for three penguin spe
 ---
 
 ## 📁 Project Structure
+palmer-penguins-eda/ 
+├── data/ 
+└── penguins.csv  
+├── notebooks/ 
+└── penguins_eda.ipynb 
+├── README.md 
+└── requirements.txt
+
+
+---
+
+## ▶️ How to Run This Notebook
+1. Clone the repository  
+2. Install dependencies:  pip install -r requirements.txt
+3. Open the notebook in Jupyter, VS Code, or DataSpell  
+4. Run cells from top to bottom  
+
+---
+
+## 🧪 Statistical Test
+A two‑sample t‑test was performed to compare male and female body mass.
+
+**Result:**  
+Male penguins are significantly heavier than females (p-value near zero), confirming a meaningful biological difference.
+
+---
+
+## 🚀 Possible Future Improvements
+- Add species classification model  
+- Build interactive visualizations (Plotly)  
+- Add data cleaning pipeline  
+- Expand statistical testing  
+- Create a dashboard version of the analysis  
+
+---
+
+## 📎 Notebook
+The full analysis is available in:  
+`notebooks/penguins_eda.ipynb`
+
+---
+
+## 📬 Contact
+If you’d like to discuss this project or my workflow, feel free to reach out.
